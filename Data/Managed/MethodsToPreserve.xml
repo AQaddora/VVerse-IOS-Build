@@ -1,0 +1,446 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="AddDimensionPopUp">
+			<method name="AddDimensionButton"/>
+			<method name="AddDimensionButton"/>
+			<method name="DimensionImageButton"/>
+			<method name="DimensionImageButton"/>
+		</type>
+		<type fullname="AdminEditorUI">
+			<method name="EditEnviroment"/>
+			<method name="EditTemplate"/>
+			<method name="LoadEnviromentScene"/>
+			<method name="LoadTemplateScene"/>
+		</type>
+		<type fullname="Animation3DPopup">
+			<method name="OnClickUpload"/>
+			<method name="ShowPopup"/>
+		</type>
+		<type fullname="Auth">
+			<method name="LoginBtn"/>
+			<method name="SignUpBtn"/>
+		</type>
+		<type fullname="AvatarSdkUI">
+			<method name="OnClickTakePhoto"/>
+			<method name="OnClickTakePhoto"/>
+			<method name="OnClickUploadPhoto"/>
+			<method name="OnClickUploadPhoto"/>
+			<method name="OnHideTakeAPhoto"/>
+			<method name="OnHideTakeAPhoto"/>
+			<method name="OnSaveClick"/>
+			<method name="OnSaveClick"/>
+			<method name="OnShowTakeAPhoto"/>
+			<method name="OnShowTakeAPhoto"/>
+			<method name="RpmAvatarBtn"/>
+			<method name="ShowAvatarUI"/>
+			<method name="ShowAvatarUI"/>
+		</type>
+		<type fullname="CallScreenUI">
+			<method name="AnswerCall"/>
+			<method name="EndCall"/>
+			<method name="RejectCall"/>
+		</type>
+		<type fullname="CCLogger">
+			<method name="ForceHide"/>
+			<method name="ForceHide"/>
+			<method name="ForceHide"/>
+		</type>
+		<type fullname="ChatUI">
+			<method name="OnScrollReachTop"/>
+			<method name="SendTextMessage"/>
+			<method name="ToggleMessages"/>
+		</type>
+		<type fullname="ConfirmToastUI">
+			<method name="Accept"/>
+			<method name="Close"/>
+		</type>
+		<type fullname="DimensionBoxUI">
+			<method name="GetExploreDimension"/>
+			<method name="GetExploreDimension"/>
+			<method name="GetMyDimensions"/>
+			<method name="GetMyDimensions"/>
+			<method name="LoadMoreDimensions"/>
+			<method name="LoadMoreDimensions"/>
+			<method name="PiPhiWorldBtn"/>
+			<method name="SearchDimensions"/>
+			<method name="SearchDimensions"/>
+			<method name="SearchDimensions"/>
+			<method name="SearchDimensions"/>
+			<method name="SearchDimensions"/>
+			<method name="SearchDimensions"/>
+			<method name="VCityBtn"/>
+		</type>
+		<type fullname="DimensionDeserializer">
+			<method name="Save"/>
+			<method name="Save"/>
+		</type>
+		<type fullname="EditDimensionBoxUI">
+			<method name="Back"/>
+			<method name="Back"/>
+			<method name="Next"/>
+			<method name="Next"/>
+			<method name="OnStepToggleChange"/>
+			<method name="OnStepToggleChange"/>
+			<method name="OnStepToggleChange"/>
+			<method name="OnStepToggleChange"/>
+			<method name="OnStepToggleChange"/>
+			<method name="OnStepToggleChange"/>
+			<method name="OnStepToggleChange"/>
+			<method name="OnStepToggleChange"/>
+			<method name="SetTemplateAndEnviroment"/>
+			<method name="ShowEditDimensionBoxUI"/>
+		</type>
+		<type fullname="EditorLibraryUI">
+			<method name="HideStickyNoteUI"/>
+			<method name="HideUrlPlacementUI"/>
+			<method name="OnClickPortal"/>
+			<method name="OnClickPortal"/>
+			<method name="OnClickStickyNote"/>
+			<method name="OnClickUrlPlacement"/>
+			<method name="OnClickWhiteboard"/>
+			<method name="Search"/>
+			<method name="Search"/>
+			<method name="ShowMainCategories"/>
+			<method name="ShowMainCategories"/>
+		</type>
+		<type fullname="ExpandOnTMPFocus">
+			<method name="Shrink"/>
+			<method name="Shrink"/>
+		</type>
+		<type fullname="FullScreenGraphicsUI">
+			<method name="HideGraphics"/>
+			<method name="SetVolume"/>
+		</type>
+		<type fullname="HostToolsPopup">
+			<method name="Save"/>
+			<method name="Save"/>
+			<method name="ShowMainPopup"/>
+			<method name="ShowMainPopup"/>
+			<method name="ShowOptionsPopup"/>
+			<method name="ShowOptionsPopup"/>
+			<method name="ShowOptionsPopup"/>
+		</type>
+		<type fullname="HudScreenUI">
+			<method name="HideInputMessage"/>
+			<method name="HideMirrorPreview"/>
+			<method name="OnClickCopyUrl"/>
+			<method name="OnClickCopyUrl"/>
+			<method name="OnClickLeaveDimension"/>
+			<method name="OnClickPublishMirror"/>
+			<method name="OnClickRecordMirror"/>
+			<method name="OnClickShareDimension"/>
+			<method name="SendMessageFromInput"/>
+			<method name="SendSticker"/>
+			<method name="SendSticker"/>
+			<method name="SetPlayerControlling"/>
+			<method name="SetPlayerControlling"/>
+			<method name="ShowInputMessage"/>
+			<method name="StartInteraction"/>
+			<method name="StartInteraction"/>
+			<method name="StartInteraction"/>
+			<method name="StartInteraction"/>
+			<method name="StartInteraction"/>
+			<method name="ToggleShareScreen"/>
+			<method name="ToggleVideo"/>
+			<method name="ToggleVideo"/>
+			<method name="ToggleVoice"/>
+			<method name="ToggleVoice"/>
+		</type>
+		<type fullname="MeetingsUI">
+			<method name="OnClickCopyUrl"/>
+			<method name="OnClickCopyUrl"/>
+			<method name="OnClickCreate"/>
+			<method name="ToggleStartNow"/>
+		</type>
+		<type fullname="MinimapUI">
+			<method name="Activate"/>
+			<method name="Activate"/>
+		</type>
+		<type fullname="ModelUploader">
+			<method name="LoadLodObjFile"/>
+			<method name="LoadLodObjFile"/>
+			<method name="LoadLodTexture"/>
+			<method name="LoadMetalicFile"/>
+			<method name="LoadMetalicFile"/>
+			<method name="LoadNormalFile"/>
+			<method name="LoadNormalFile"/>
+			<method name="LoadObjFile"/>
+			<method name="LoadTextureFile"/>
+			<method name="LoadTextureFile"/>
+			<method name="SetEmissionType"/>
+			<method name="SetGloss"/>
+			<method name="SetGloss"/>
+			<method name="UpdateSubCategories"/>
+			<method name="UpdateSubCategories"/>
+			<method name="Upload"/>
+			<method name="Upload"/>
+		</type>
+		<type fullname="NFTLibraryUI">
+			<method name="ConnectWallet"/>
+			<method name="OnSelectNetwork"/>
+			<method name="OnSelectNetwork"/>
+			<method name="OnSelectNetwork"/>
+			<method name="OnShown"/>
+		</type>
+		<type fullname="ProductScreenUI">
+			<method name="AddToCartBtn"/>
+			<method name="Hide"/>
+		</type>
+		<type fullname="RentingSpaceUI">
+			<method name="OnRentClicked"/>
+		</type>
+		<type fullname="StreamScreenUI">
+			<method name="HideStream"/>
+			<method name="SetStreamVolume"/>
+		</type>
+		<type fullname="Temp_SliderZoom">
+			<method name="Zoom"/>
+		</type>
+		<type fullname="TemplatesBoxUI">
+			<method name="Back"/>
+			<method name="Back"/>
+			<method name="Next"/>
+			<method name="Next"/>
+			<method name="OnStepToggleChange"/>
+			<method name="OnStepToggleChange"/>
+			<method name="OnStepToggleChange"/>
+			<method name="OnStepToggleChange"/>
+			<method name="OnStepToggleChange"/>
+			<method name="OnStepToggleChange"/>
+		</type>
+		<type fullname="TransformOptionsUI">
+			<method name="Done"/>
+			<method name="Done"/>
+			<method name="SaveAsBlock"/>
+			<method name="UploadNewTexture"/>
+		</type>
+		<type fullname="UICounter">
+			<method name="Decrement"/>
+			<method name="Increment"/>
+		</type>
+		<type fullname="UIFade">
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+		</type>
+		<type fullname="UIResize">
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Show"/>
+			<method name="Show"/>
+		</type>
+		<type fullname="UISlide">
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Hide"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+			<method name="Show"/>
+		</type>
+		<type fullname="UITransition">
+			<method name="SetVisible"/>
+			<method name="SetVisible"/>
+			<method name="SetVisible"/>
+			<method name="SetVisible"/>
+			<method name="SetVisible"/>
+			<method name="SetVisible"/>
+			<method name="SetVisible"/>
+			<method name="SetVisible"/>
+			<method name="Toggle"/>
+		</type>
+		<type fullname="VEditor">
+			<method name="EditMode"/>
+			<method name="ToggleEditor"/>
+			<method name="ToggleEditor"/>
+		</type>
+	</assembly>
+	<assembly fullname="Unity.RenderPipelines.Core.Runtime" ignoreIfMissing="1">
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerIntField">
+			<method name="OnDecrement"/>
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+			<method name="OnIncrement"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerPanel">
+			<method name="OnScrollbarClicked"/>
+			<method name="OnScrollbarClicked"/>
+			<method name="ResetDebugManager"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerUIntField">
+			<method name="OnDecrement"/>
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+			<method name="OnIncrement"/>
+		</type>
+	</assembly>
+	<assembly fullname="Unity.TextMeshPro" ignoreIfMissing="1">
+		<type fullname="TMPro.TMP_InputField">
+			<method name="set_text"/>
+			<method name="set_text"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.GameObject">
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+		</type>
+		<type fullname="UnityEngine.Transform">
+			<method name="SetAsLastSibling"/>
+			<method name="SetAsLastSibling"/>
+			<method name="SetAsLastSibling"/>
+			<method name="SetAsLastSibling"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.UI" ignoreIfMissing="1">
+		<type fullname="UnityEngine.UI.Selectable">
+			<method name="Select"/>
+			<method name="Select"/>
+		</type>
+		<type fullname="UnityEngine.UI.Toggle">
+			<method name="set_isOn"/>
+			<method name="set_isOn"/>
+			<method name="set_isOn"/>
+			<method name="set_isOn"/>
+			<method name="set_isOn"/>
+			<method name="set_isOn"/>
+			<method name="set_isOn"/>
+			<method name="set_isOn"/>
+			<method name="set_isOn"/>
+			<method name="set_isOn"/>
+			<method name="set_isOn"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.UIModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.CanvasGroup">
+			<method name="set_alpha"/>
+			<method name="set_alpha"/>
+		</type>
+	</assembly>
+</linker>
